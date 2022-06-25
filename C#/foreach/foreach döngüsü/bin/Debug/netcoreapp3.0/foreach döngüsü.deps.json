@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "foreach döngüsü/1.0.0": {
+        "runtime": {
+          "foreach döngüsü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "foreach döngüsü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

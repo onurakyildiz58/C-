@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\bin\Debug\191307026-OnurAkyıldız-Ödev8.txt.exe.config
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\bin\Debug\191307026-OnurAkyıldız-Ödev8.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\bin\Debug\191307026-OnurAkyıldız-Ödev8.txt.pdb
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\obj\Debug\191307026-OnurAkyıldız-Ödev8.txt.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\obj\Debug\191307026-OnurAkyıldız-Ödev8.txt.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\obj\Debug\191307026-OnurAkyıldız-Ödev8.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldız-Ödev8.txt\191307026-OnurAkyıldız-Ödev8.txt\obj\Debug\191307026-OnurAkyıldız-Ödev8.txt.pdb

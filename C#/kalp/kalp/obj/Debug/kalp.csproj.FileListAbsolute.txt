@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\kalp\kalp\bin\Debug\kalp.exe.config
+C:\Users\onura\source\repos\kalp\kalp\bin\Debug\kalp.exe
+C:\Users\onura\source\repos\kalp\kalp\bin\Debug\kalp.pdb
+C:\Users\onura\source\repos\kalp\kalp\obj\Debug\kalp.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\kalp\kalp\obj\Debug\kalp.exe
+C:\Users\onura\source\repos\kalp\kalp\obj\Debug\kalp.pdb
+C:\Users\onura\source\repos\kalp\kalp\obj\Debug\kalp.csproj.CoreCompileInputs.cache

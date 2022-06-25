@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\kalıtım\kalıtım\bin\Debug\kalıtım.exe.config
+C:\Users\onura\source\repos\kalıtım\kalıtım\bin\Debug\kalıtım.exe
+C:\Users\onura\source\repos\kalıtım\kalıtım\bin\Debug\kalıtım.pdb
+C:\Users\onura\source\repos\kalıtım\kalıtım\obj\Debug\kalıtım.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\kalıtım\kalıtım\obj\Debug\kalıtım.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\kalıtım\kalıtım\obj\Debug\kalıtım.exe
+C:\Users\onura\source\repos\kalıtım\kalıtım\obj\Debug\kalıtım.pdb

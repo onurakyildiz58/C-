@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\bin\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.exe.config
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\bin\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\bin\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.pdb
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\obj\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\obj\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\obj\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldızVizeÖdevi.txt\191307026-OnurAkyıldızVizeÖdevi.txt\obj\Debug\191307026-OnurAkyıldızVizeÖdevi.txt.pdb

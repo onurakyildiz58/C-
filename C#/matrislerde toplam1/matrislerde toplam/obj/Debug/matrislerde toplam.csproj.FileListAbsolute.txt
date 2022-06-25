@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\bin\Debug\matrislerde toplam.exe.config
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\bin\Debug\matrislerde toplam.exe
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\bin\Debug\matrislerde toplam.pdb
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\obj\Debug\matrislerde toplam.exe
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\obj\Debug\matrislerde toplam.pdb
+C:\Users\onura\source\repos\matrislerde toplam\matrislerde toplam\obj\Debug\matrislerde toplam.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.exe.config
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.exe
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.pdb
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.exe
+C:\Users\onura\source\repos\fibonacci sayı dizisi\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.pdb
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.exe.config
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.exe
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\bin\Debug\fibonacci sayı dizisi.pdb
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.exe
+C:\Users\onura\source\repos\C#\fibonacci sayı dizisi C#\fibonacci sayı dizisi\obj\Debug\fibonacci sayı dizisi.pdb

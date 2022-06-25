@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\bin\Debug\matematik fonksiyonlar.exe.config
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\bin\Debug\matematik fonksiyonlar.exe
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\bin\Debug\matematik fonksiyonlar.pdb
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\obj\Debug\matematik fonksiyonlar.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\obj\Debug\matematik fonksiyonlar.exe
+C:\Users\onura\source\repos\matematik fonksiyonlar\matematik fonksiyonlar\obj\Debug\matematik fonksiyonlar.pdb

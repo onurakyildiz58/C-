@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\bin\Debug\string fonksiyonları.exe.config
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\bin\Debug\string fonksiyonları.exe
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\bin\Debug\string fonksiyonları.pdb
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\obj\Debug\string fonksiyonları.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\obj\Debug\string fonksiyonları.exe
+C:\Users\onura\source\repos\string fonksiyonları\string fonksiyonları\obj\Debug\string fonksiyonları.pdb

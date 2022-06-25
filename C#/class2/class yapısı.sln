@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class yapısı", "class yapısı\class yapısı.csproj", "{9ADA2977-95E5-4F06-99C5-78791CDE9B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADA2977-95E5-4F06-99C5-78791CDE9B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADA2977-95E5-4F06-99C5-78791CDE9B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADA2977-95E5-4F06-99C5-78791CDE9B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADA2977-95E5-4F06-99C5-78791CDE9B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89A250B-308A-4E82-B3DF-D7A1A6FF1DA9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\onura\source\repos\C#\class C#\class\obj\Debug\class.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\C#\class C#\class\obj\Debug\class.csproj.CoreCompileInputs.cache

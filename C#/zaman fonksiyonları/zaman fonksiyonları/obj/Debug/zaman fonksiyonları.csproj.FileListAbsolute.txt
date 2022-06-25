@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\bin\Debug\zaman fonksiyonları.exe.config
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\bin\Debug\zaman fonksiyonları.exe
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\bin\Debug\zaman fonksiyonları.pdb
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\obj\Debug\zaman fonksiyonları.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\obj\Debug\zaman fonksiyonları.exe
+C:\Users\onura\source\repos\zaman fonksiyonları\zaman fonksiyonları\obj\Debug\zaman fonksiyonları.pdb

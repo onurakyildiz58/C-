@@ -1,0 +1,9 @@
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.exe.config
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.exe
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.pdb
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.exe
+C:\Users\onura\source\repos\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.pdb
+C:\Users\onura\source\repos\iki boyutlu diziler\sınava hazırlık\obj\Debug\sınava hazırlık.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\iki boyutlu diziler\sınava hazırlık\obj\Debug\sınava hazırlık.exe
+C:\Users\onura\source\repos\iki boyutlu diziler\sınava hazırlık\obj\Debug\sınava hazırlık.pdb

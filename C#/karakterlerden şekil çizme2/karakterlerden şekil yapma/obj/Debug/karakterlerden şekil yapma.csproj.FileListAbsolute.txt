@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\bin\Debug\karakterlerden şekil yapma.exe.config
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\bin\Debug\karakterlerden şekil yapma.exe
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\bin\Debug\karakterlerden şekil yapma.pdb
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\obj\Debug\karakterlerden şekil yapma.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\obj\Debug\karakterlerden şekil yapma.exe
+C:\Users\onura\source\repos\karakterlerden şekil yapma\karakterlerden şekil yapma\obj\Debug\karakterlerden şekil yapma.pdb

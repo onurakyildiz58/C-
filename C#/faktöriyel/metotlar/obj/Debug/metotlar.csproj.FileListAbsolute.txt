@@ -1,0 +1,12 @@
+C:\Users\onura\source\repos\metotlar\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\onura\source\repos\metotlar\metotlar\bin\Debug\metotlar.exe
+C:\Users\onura\source\repos\metotlar\metotlar\bin\Debug\metotlar.pdb
+C:\Users\onura\source\repos\metotlar\metotlar\obj\Debug\metotlar.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\metotlar\metotlar\obj\Debug\metotlar.exe
+C:\Users\onura\source\repos\metotlar\metotlar\obj\Debug\metotlar.pdb
+C:\Users\onura\source\repos\faktöriyel\metotlar\bin\Debug\metotlar.exe.config
+C:\Users\onura\source\repos\faktöriyel\metotlar\bin\Debug\metotlar.exe
+C:\Users\onura\source\repos\faktöriyel\metotlar\bin\Debug\metotlar.pdb
+C:\Users\onura\source\repos\faktöriyel\metotlar\obj\Debug\metotlar.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\faktöriyel\metotlar\obj\Debug\metotlar.exe
+C:\Users\onura\source\repos\faktöriyel\metotlar\obj\Debug\metotlar.pdb

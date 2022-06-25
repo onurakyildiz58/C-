@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\bin\Debug\class yapısı vol.2.exe.config
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\bin\Debug\class yapısı vol.2.exe
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\bin\Debug\class yapısı vol.2.pdb
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\obj\Debug\class yapısı vol.2.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\obj\Debug\class yapısı vol.2.exe
+C:\Users\onura\source\repos\class yapısı vol.2\class yapısı vol.2\obj\Debug\class yapısı vol.2.pdb

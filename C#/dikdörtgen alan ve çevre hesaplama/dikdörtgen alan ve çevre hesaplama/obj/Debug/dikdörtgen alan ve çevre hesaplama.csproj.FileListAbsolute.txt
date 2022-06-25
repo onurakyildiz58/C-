@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\bin\Debug\dikdörtgen alan ve çevre hesaplama.exe.config
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\bin\Debug\dikdörtgen alan ve çevre hesaplama.exe
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\bin\Debug\dikdörtgen alan ve çevre hesaplama.pdb
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\obj\Debug\dikdörtgen alan ve çevre hesaplama.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\obj\Debug\dikdörtgen alan ve çevre hesaplama.exe
+C:\Users\onura\source\repos\dikdörtgen alan ve çevre hesaplama\dikdörtgen alan ve çevre hesaplama\obj\Debug\dikdörtgen alan ve çevre hesaplama.pdb

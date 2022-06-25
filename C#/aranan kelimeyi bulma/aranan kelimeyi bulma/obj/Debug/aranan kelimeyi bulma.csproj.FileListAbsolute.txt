@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\bin\Debug\aranan kelimeyi bulma.exe.config
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\bin\Debug\aranan kelimeyi bulma.exe
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\bin\Debug\aranan kelimeyi bulma.pdb
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\obj\Debug\aranan kelimeyi bulma.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\obj\Debug\aranan kelimeyi bulma.exe
+C:\Users\onura\source\repos\aranan kelimeyi bulma\aranan kelimeyi bulma\obj\Debug\aranan kelimeyi bulma.pdb

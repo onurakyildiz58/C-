@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\bin\Debug\191307026-OnurAkyıldız.txt.exe.config
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\bin\Debug\191307026-OnurAkyıldız.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\bin\Debug\191307026-OnurAkyıldız.txt.pdb
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\obj\Debug\191307026-OnurAkyıldız.txt.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\obj\Debug\191307026-OnurAkyıldız.txt.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\obj\Debug\191307026-OnurAkyıldız.txt.exe
+C:\Users\onura\source\repos\191307026-OnurAkyıldız.txt\191307026-OnurAkyıldız.txt\obj\Debug\191307026-OnurAkyıldız.txt.pdb

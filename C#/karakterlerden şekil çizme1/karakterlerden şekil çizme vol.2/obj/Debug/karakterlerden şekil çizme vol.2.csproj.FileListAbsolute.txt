@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\bin\Debug\karakterlerden şekil çizme vol.2.exe.config
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\bin\Debug\karakterlerden şekil çizme vol.2.exe
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\bin\Debug\karakterlerden şekil çizme vol.2.pdb
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\obj\Debug\karakterlerden şekil çizme vol.2.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\obj\Debug\karakterlerden şekil çizme vol.2.exe
+C:\Users\onura\source\repos\karakterlerden şekil çizme vol.2\karakterlerden şekil çizme vol.2\obj\Debug\karakterlerden şekil çizme vol.2.pdb

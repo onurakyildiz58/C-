@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\bin\Debug\parçalı çok boyutku dizi.exe.config
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\bin\Debug\parçalı çok boyutku dizi.exe
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\bin\Debug\parçalı çok boyutku dizi.pdb
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\obj\Debug\parçalı çok boyutku dizi.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\obj\Debug\parçalı çok boyutku dizi.exe
+C:\Users\onura\source\repos\parçalı çok boyutku dizi\parçalı çok boyutku dizi\obj\Debug\parçalı çok boyutku dizi.pdb

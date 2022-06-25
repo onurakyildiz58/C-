@@ -1,0 +1,13 @@
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe.config
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.pdb
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta4Ödev4\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.pdb
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe.config
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\bin\Debug\OnurAkyıldız191307026Hafta4Ödev4.pdb
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.exe
+C:\Users\onura\source\repos\C#\OnurAkyıldız191307026VİzeÖdevi C#\OnurAkyıldız191307026Hafta4Ödev4\obj\Debug\OnurAkyıldız191307026Hafta4Ödev4.pdb

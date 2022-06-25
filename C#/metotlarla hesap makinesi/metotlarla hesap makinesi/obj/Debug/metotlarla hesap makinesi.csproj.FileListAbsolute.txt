@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\bin\Debug\metotlarla hesap makinesi.exe.config
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\bin\Debug\metotlarla hesap makinesi.exe
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\bin\Debug\metotlarla hesap makinesi.pdb
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\obj\Debug\metotlarla hesap makinesi.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\obj\Debug\metotlarla hesap makinesi.exe
+C:\Users\onura\source\repos\metotlarla hesap makinesi\metotlarla hesap makinesi\obj\Debug\metotlarla hesap makinesi.pdb

@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\bin\Debug\try catch yapısı.exe.config
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\bin\Debug\try catch yapısı.exe
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\bin\Debug\try catch yapısı.pdb
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\obj\Debug\try catch yapısı.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\obj\Debug\try catch yapısı.exe
+C:\Users\onura\source\repos\try catch yapısı\try catch yapısı\obj\Debug\try catch yapısı.pdb

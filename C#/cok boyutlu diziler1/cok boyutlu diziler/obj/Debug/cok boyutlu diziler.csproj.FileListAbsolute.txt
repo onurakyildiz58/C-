@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\obj\Debug\cok boyutlu diziler.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\bin\Debug\cok boyutlu diziler.exe.config
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\bin\Debug\cok boyutlu diziler.exe
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\bin\Debug\cok boyutlu diziler.pdb
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\obj\Debug\cok boyutlu diziler.exe
+C:\Users\onura\source\repos\cok boyutlu diziler\cok boyutlu diziler\obj\Debug\cok boyutlu diziler.pdb

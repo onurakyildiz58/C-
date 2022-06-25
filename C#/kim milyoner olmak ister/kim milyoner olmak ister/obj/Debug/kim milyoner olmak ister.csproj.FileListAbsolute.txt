@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\bin\Debug\kim milyoner olmak ister.exe.config
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\bin\Debug\kim milyoner olmak ister.exe
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\bin\Debug\kim milyoner olmak ister.pdb
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\obj\Debug\kim milyoner olmak ister.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\obj\Debug\kim milyoner olmak ister.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\obj\Debug\kim milyoner olmak ister.exe
+C:\Users\onura\source\repos\kim milyoner olmak ister\kim milyoner olmak ister\obj\Debug\kim milyoner olmak ister.pdb

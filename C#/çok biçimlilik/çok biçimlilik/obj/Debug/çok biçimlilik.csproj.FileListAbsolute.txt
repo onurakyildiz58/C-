@@ -1,0 +1,14 @@
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\bin\Debug\çok biçimlilik.exe.config
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\bin\Debug\çok biçimlilik.exe
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\bin\Debug\çok biçimlilik.pdb
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\obj\Debug\çok biçimlilik.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\obj\Debug\çok biçimlilik.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\obj\Debug\çok biçimlilik.exe
+C:\Users\onura\source\repos\çok biçimlilik\çok biçimlilik\obj\Debug\çok biçimlilik.pdb
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\bin\Debug\çok biçimlilik.exe.config
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\bin\Debug\çok biçimlilik.exe
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\bin\Debug\çok biçimlilik.pdb
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\obj\Debug\çok biçimlilik.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\obj\Debug\çok biçimlilik.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\obj\Debug\çok biçimlilik.exe
+C:\Users\onura\source\repos\C#\çok biçimlilik C#\çok biçimlilik\obj\Debug\çok biçimlilik.pdb

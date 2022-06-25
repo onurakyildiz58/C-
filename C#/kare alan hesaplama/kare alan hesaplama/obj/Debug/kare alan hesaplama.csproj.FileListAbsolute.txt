@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\bin\Debug\kare alan hesaplama.exe.config
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\bin\Debug\kare alan hesaplama.exe
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\bin\Debug\kare alan hesaplama.pdb
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\obj\Debug\kare alan hesaplama.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\obj\Debug\kare alan hesaplama.exe
+C:\Users\onura\source\repos\kare alan hesaplama\kare alan hesaplama\obj\Debug\kare alan hesaplama.pdb

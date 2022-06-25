@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJXh/0QGXXJLnL7wZeFPDJeBoHCP08EQ3GusPb7w756/1m4MsGsQhHqaw4KK5+1M4vJNWEcpbJ0ItFGsd0GP/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onura\\source\\repos\\C#\\diziler C#\\diziler\\diziler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\onura\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\onura\source\repos\array list\array list\bin\Debug\array list.exe.config
+C:\Users\onura\source\repos\array list\array list\bin\Debug\array list.exe
+C:\Users\onura\source\repos\array list\array list\bin\Debug\array list.pdb
+C:\Users\onura\source\repos\array list\array list\obj\Debug\array list.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\array list\array list\obj\Debug\array list.exe
+C:\Users\onura\source\repos\array list\array list\obj\Debug\array list.pdb
+C:\Users\onura\source\repos\array list\array list\obj\Debug\array list.csproj.CoreCompileInputs.cache

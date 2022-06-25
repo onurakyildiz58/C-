@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\bin\Debug\ref out(aşırı yüklenme).exe.config
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\bin\Debug\ref out(aşırı yüklenme).exe
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\bin\Debug\ref out(aşırı yüklenme).pdb
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\obj\Debug\ref out(aşırı yüklenme).csprojAssemblyReference.cache
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\obj\Debug\ref out(aşırı yüklenme).exe
+C:\Users\onura\source\repos\ref out(aşırı yüklenme)\ref out(aşırı yüklenme)\obj\Debug\ref out(aşırı yüklenme).pdb

@@ -1,0 +1,13 @@
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe.config
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.pdb
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta2Ödev2\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.pdb
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe.config
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\bin\Debug\OnurAkyıldız191307026Hafta2Ödev2.pdb
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.exe
+C:\Users\onura\source\repos\ArrayList ödev\OnurAkyıldız191307026Hafta2Ödev2\obj\Debug\OnurAkyıldız191307026Hafta2Ödev2.pdb

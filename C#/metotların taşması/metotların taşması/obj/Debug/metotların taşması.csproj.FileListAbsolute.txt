@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\bin\Debug\metotların taşması.exe.config
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\bin\Debug\metotların taşması.exe
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\bin\Debug\metotların taşması.pdb
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\obj\Debug\metotların taşması.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\obj\Debug\metotların taşması.exe
+C:\Users\onura\source\repos\metotların taşması\metotların taşması\obj\Debug\metotların taşması.pdb

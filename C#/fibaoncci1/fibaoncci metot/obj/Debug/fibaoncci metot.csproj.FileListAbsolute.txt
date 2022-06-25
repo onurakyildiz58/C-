@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\obj\Debug\fibaoncci metot.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\bin\Debug\fibaoncci metot.exe.config
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\bin\Debug\fibaoncci metot.exe
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\bin\Debug\fibaoncci metot.pdb
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\obj\Debug\fibaoncci metot.exe
+C:\Users\onura\source\repos\fibaoncci metot\fibaoncci metot\obj\Debug\fibaoncci metot.pdb

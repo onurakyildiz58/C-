@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\bin\Debug\string fonksiyon ile process.exe.config
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\bin\Debug\string fonksiyon ile process.exe
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\bin\Debug\string fonksiyon ile process.pdb
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\obj\Debug\string fonksiyon ile process.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\obj\Debug\string fonksiyon ile process.exe
+C:\Users\onura\source\repos\string fonksiyon ile process\string fonksiyon ile process\obj\Debug\string fonksiyon ile process.pdb

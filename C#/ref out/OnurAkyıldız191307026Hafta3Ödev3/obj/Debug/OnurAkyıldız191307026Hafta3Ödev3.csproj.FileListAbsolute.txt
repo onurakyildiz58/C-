@@ -1,0 +1,6 @@
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\bin\Debug\OnurAkyıldız191307026Hafta3Ödev3.exe.config
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\bin\Debug\OnurAkyıldız191307026Hafta3Ödev3.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\bin\Debug\OnurAkyıldız191307026Hafta3Ödev3.pdb
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\obj\Debug\OnurAkyıldız191307026Hafta3Ödev3.csprojAssemblyReference.cache
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\obj\Debug\OnurAkyıldız191307026Hafta3Ödev3.exe
+C:\Users\onura\source\repos\OnurAkyıldız191307026Hafta3Ödev3\OnurAkyıldız191307026Hafta3Ödev3\obj\Debug\OnurAkyıldız191307026Hafta3Ödev3.pdb
